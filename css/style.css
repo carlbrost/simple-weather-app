@@ -1,4 +1,11 @@
-article, aside, figure, figcaption, footer, header, nav, section {
+article,
+aside,
+figure,
+figcaption,
+footer,
+header,
+nav,
+section {
     display: block;
 }
 
@@ -10,7 +17,7 @@ body {
 
 header {
     color: rebeccapurple;
-    font-family: Papyrus, fantasy;
+    font-family: Stencil, fantasy;
     font-size: 2em;
     text-align: center;
     padding: 20px;
@@ -32,4 +39,4 @@ input {
 #weather {
     width: 80%;
     margin: auto;
-}   
+}
